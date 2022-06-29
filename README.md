@@ -1,5 +1,6 @@
-# Hi there 👋, Meheruj Mithila
-## Frontend Web Developer
+# Hi there 👋, 
+###I am Meheruj Mithila
+# Frontend Web Developer
 I am a Junior Frontend Developer. Desire to position of web development as well as to gain confidence and express my innovative creative skills for self and company growth. I'm always trying to learn new technology . I want to develop my skill.
 
 Skills:  REACT / JS / HTML / CSS
@@ -8,7 +9,6 @@ Skills:  REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Animation 
 - 💬 Ask me about anything. I am happy to help. 
 - 📫 How to reach me:  meheruj.j.mithila@gmail.com 
-- 🌱 Checkout my Resume https://drive.google.com/file/d/1pAGHjddcBI4NxB__vf_I1KNaJP7aGpZR/view?usp=sharing
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/meherujjahan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/meheruj-jahan-mithila//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mi.thila.31924)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/meheruj_mithila//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MeherujJahan)  
 
